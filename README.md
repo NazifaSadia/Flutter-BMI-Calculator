@@ -27,23 +27,23 @@ We’re going to make a Body Mass Index Calculator inspired by the beautiful des
 - Learn about composition vs. inheritance and the Flutter way of creating custom UI.
 - Understand the difference between const and final in Dart and when to use each.
 
-Learn More ->
-Using Themes: https://flutter.dev/docs/cookbook/design/themes
-The Flutter Cookbook: https://flutter.dev/docs/cookbook
-ThemeData Class: https://api.flutter.dev/flutter/material/ThemeData-class.html
-The Color Class: https://api.flutter.dev/flutter/dart-ui/Color-class.html
-The Key Class: https://api.flutter.dev/flutter/foundation/Key-class.html
-When to Use Keys - Flutter Widgets 101 Ep. 4: https://www.youtube.com/watch?v=kn0EOS-ZiIc
-Dart Language Tour: Final and Const : https://dart.dev/guides/language/language-tour#final-and-const
-Font Awesome Flutter Package: https://pub.dev/packages/font_awesome_flutter
-The GestureDetector Class: https://api.flutter.dev/flutter/widgets/GestureDetector-class.html
-Slider Class: https://api.flutter.dev/flutter/material/Slider-class.html
-FloatingActionButton Class: https://api.flutter.dev/flutter/material/FloatingActionButton-class.html
-ShapeBorder Class: https://api.flutter.dev/flutter/painting/ShapeBorder-class.html
-RawMaterialButton Class: https://api.flutter.dev/flutter/material/RawMaterialButton-class.html
-Navigating between Screens on Flutter: https://flutter.dev/docs/cookbook/navigation/navigation-basics
-Navigate with Named Routes: https://flutter.dev/docs/cookbook/navigation/named-routes
-Definition of the Body Mass Index (BMI): https://en.wikipedia.org/wiki/Body_mass_index
+## Learn More ->
+- Using Themes: https://flutter.dev/docs/cookbook/design/themes
+- The Flutter Cookbook: https://flutter.dev/docs/cookbook
+- ThemeData Class: https://api.flutter.dev/flutter/material/ThemeData-class.html
+- The Color Class: https://api.flutter.dev/flutter/dart-ui/Color-class.html
+- The Key Class: https://api.flutter.dev/flutter/foundation/Key-class.html
+- When to Use Keys - Flutter Widgets 101 Ep. 4: https://www.youtube.com/watch?v=kn0EOS-ZiIc
+- Dart Language Tour: Final and Const : https://dart.dev/guides/language/language-tour#final-and-const
+- Font Awesome Flutter Package: https://pub.dev/packages/font_awesome_flutter
+- The GestureDetector Class: https://api.flutter.dev/flutter/widgets/GestureDetector-class.html
+- Slider Class: https://api.flutter.dev/flutter/material/Slider-class.html
+- FloatingActionButton Class: https://api.flutter.dev/flutter/material/FloatingActionButton-class.html
+- ShapeBorder Class: https://api.flutter.dev/flutter/painting/ShapeBorder-class.html
+- RawMaterialButton Class: https://api.flutter.dev/flutter/material/RawMaterialButton-class.html
+- Navigating between Screens on Flutter: https://flutter.dev/docs/cookbook/navigation/navigation-basics
+- Navigate with Named Routes: https://flutter.dev/docs/cookbook/navigation/named-routes
+- Definition of the Body Mass Index (BMI): https://en.wikipedia.org/wiki/Body_mass_index
 
 
 
